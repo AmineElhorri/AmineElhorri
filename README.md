@@ -1,4 +1,4 @@
-<div align="center" width="50">
+<div align="center" width="60">
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I'm+Amine+Elhorri;Hello+developers" alt="Typing SVG" />
 </div>
@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+  
 </div>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
